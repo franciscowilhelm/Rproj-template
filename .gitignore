@@ -2,3 +2,5 @@ packrat/lib*/
 .Rproj.user
 .DS_Store
 .Rhistory
+.Rapp.history
+.RData
